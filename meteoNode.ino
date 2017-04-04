@@ -1,3 +1,11 @@
+/* *****************************************
+*  Giovanni Gentile
+*  4 April 2017
+*  Instructables for Cayenne Adafruit Huzzah
+*  IOT meteo Station
+*  Adafruit Huzzah + DHT-11 sensor
+* *******************************************/
+
 //#define CAYENNE_DEBUG         // Uncomment to show debug messages
 #define CAYENNE_PRINT Serial  // Comment this out to disable prints and save space
 
