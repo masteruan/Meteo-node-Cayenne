@@ -8,13 +8,13 @@
 #include "DHT.h"
 
 // Cayenne authentication token. This should be obtained from the Cayenne Dashboard.
-char token[] = "em6dsrwym1";
+char token[] = "#########";
 
 SimpleTimer timer;
 
 // Your network name and password.
-char ssid[] = "Fastlan";
-char password[] = "cicciottocartofier2";
+char ssid[] = "#########";
+char password[] = "#########";
 
 int led = 0;
 
